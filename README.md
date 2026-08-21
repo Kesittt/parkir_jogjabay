@@ -2,6 +2,8 @@
 
 Sistem Manajemen Parkir berbasis web modern yang dirancang khusus untuk **Jogja Bay Waterpark**. Aplikasi ini menyediakan pemantauan slot parkir secara *real-time*, manajemen transaksi masuk/keluar kendaraan, sistem reservasi/booking mandiri bagi pengunjung, serta panel laporan keuangan dan aktivitas harian.
 
+https://stitch.withgoogle.com/projects/4745002080583522?pli=1
+
 ---
 
 ## 🚀 Fitur Utama
